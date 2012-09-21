@@ -1,8 +1,8 @@
 var settings = {
   'bot':{
-    'auth':'AUTH KEY HERE', //Get these values from Alain Gilbert's bookmark at:
-    'userid':'BOTS USER ID', // http://alaingilbert.github.com/Turntable-API/bookmarklet.html
-    'room':'ROOM ID',
+    Auth: auth+live+739daf39160c0468730f30999c39d75a090beeac
+UserId: 50169ea9aaa5cd2e8c000277
+RoomId: 501847a8df5bcf31c880d333
   },
   /* Optional, uncomment to have bot automatically post statuses to twitter */
   // 'twitter':{
@@ -17,9 +17,9 @@ var settings = {
   //   'apikey':'airbrake api key'
   // },
   'site':{
-    'title':'WEBSITE TITLE', //Title of the bot
-    'url':'http://example.com', //The url of your bot's website
-    'room_link':'http://example.com', //The link to the turntable.fm room for the bot
+    'title':'WEBSITE TITLE', //fettucinialfredobot
+    'url':'http://http://turntable.fm/soulspot', //The url of your bot's website
+    'room_link':http://turntable.fm/soulspot, //The link to the turntable.fm room for the bot
     'dburl':'' //Url to connect to your database
   }
 };
